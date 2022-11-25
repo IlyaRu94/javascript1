@@ -9,7 +9,11 @@
 6. «Стартовая страница»
 ---
 Есть проблема в понимании addEventListener('click', (event) => {});
+
 В некоторых случаях пишут addEventListener('click', function(){});
+
 Иногда addEventListener('click', () => {});
+
 А иногда addEventListener('click', function(e){});
+
 КАК ПРАВИЛЬНЕЕ???
